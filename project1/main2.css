@@ -1,0 +1,28 @@
+html {
+    background: url("https://i.ytimg.com/vi/J-yMd9tqt3g/maxresdefault.jpg");
+}
+h1 {
+    color: aqua
+}
+h2 {
+    color: brown
+}
+
+#unit {
+    color: darkgreen;
+}
+#stail{
+    color: deeppink;
+}
+.ss  a{
+    color: brown;
+}
+.first{
+    color: darkviolet;
+}
+.second{
+    color: blanchedalmond;
+}
+#klas{
+    color: blue;
+}
